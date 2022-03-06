@@ -1,0 +1,3 @@
+-> Para correr o objetivo 3 basta correr o ficheiro "setup.py"
+-> Nesse ficheiro existem 3 métodos, um para cada algoritmo
+-> A variavel "real_world" pode gerar o mapa 1 ou mapa 2 fornecidos pelo docente
